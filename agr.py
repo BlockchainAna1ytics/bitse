@@ -150,7 +150,7 @@ with open("/home/nex/test.txt", "r") as f:  # Input file path
 
 
 if __name__ == "__main__":
-    privkey = 0x18e14a7b6a307f426a94f8114701e7c8e774e7f9a47e2c2035db29a206321725
+    privkey = 0x7f2620bc01481c5e7b1e422438591a1cd22020b463fb7d090f4495844cf572d6
                 
     print(f"PRIVATE KEY:\t {hex(privkey)[2:].zfill(64).upper()}")
 

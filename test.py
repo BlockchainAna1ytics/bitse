@@ -14,7 +14,7 @@ def get_prepend_if_even_or_odd_for_compressed(x_point):
         return "02"  # odd
     return "03"  # even
 
-private_key = "9cadfc790f803b02045dae983cedf0e905cd014656f7930c7532f02c89e5669d"
+private_key = "a08699294864520629c7a906b8646f835c70c22eff102966343345493386d2b6"
 
 # Convert hex private key to bytes
 private_key = bytes.fromhex(private_key)
